@@ -46,6 +46,15 @@
       "reviewers": []
     },
     {
+      "language": "Hungary",
+      "annotation": "Magyar",
+      "code": 3006,
+      "unsafe_url" : "https://hai-vr.github.io/vrw-t/3005.json",
+      "category": "UNOFFICIAL",
+      "authors": ["GalaxyTheFox",
+      "reviewers": []
+    },
+    {
       "language": "繁體中文",
       "annotation": "Traditional Chinese",
       "code": 3201,
