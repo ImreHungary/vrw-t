@@ -1,4 +1,10 @@
 {
+  "_meta": {
+    "language": "Hungary",
+    "annotation": "Magyar",
+    "authors": ["GalaxyTheFox"],
+    "reviewers": []
+  },
   "None": "",
   "SysIntermission_GameWillStart": "A játék 5 másodpercen belül indul!",
   "SysEndgame_GameOver": "Játék vége!",
